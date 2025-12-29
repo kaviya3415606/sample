@@ -1,1 +1,2 @@
-print("hello world")
+varialble = 23
+print(varialble)
